@@ -1,0 +1,14 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.8 clang-703.0.31)"
+options: "96b581d3bb0a462ad91ce82e708be22d"
+build_time: [523711791, 519002000]
+inputs:
+  "/Users/franciscocarodiaz/Projects/Kyperion/iOs/kyperion/Pods/Alamofire/Source/Alamofire.swift": !dirty [494581512, 0]
+  "/Users/franciscocarodiaz/Projects/Kyperion/iOs/kyperion/Pods/Alamofire/Source/Download.swift": !dirty [494581512, 0]
+  "/Users/franciscocarodiaz/Projects/Kyperion/iOs/kyperion/Pods/Alamofire/Source/Manager.swift": !dirty [494936040, 0]
+  "/Users/franciscocarodiaz/Projects/Kyperion/iOs/kyperion/Pods/Alamofire/Source/MultipartFormData.swift": !dirty [494581512, 0]
+  "/Users/franciscocarodiaz/Projects/Kyperion/iOs/kyperion/Pods/Alamofire/Source/ParameterEncoding.swift": !dirty [494581512, 0]
+  "/Users/franciscocarodiaz/Projects/Kyperion/iOs/kyperion/Pods/Alamofire/Source/Request.swift": !dirty [494581512, 0]
+  "/Users/franciscocarodiaz/Projects/Kyperion/iOs/kyperion/Pods/Alamofire/Source/ResponseSerialization.swift": !dirty [494581512, 0]
+  "/Users/franciscocarodiaz/Projects/Kyperion/iOs/kyperion/Pods/Alamofire/Source/ServerTrustPolicy.swift": !dirty [494581512, 0]
+  "/Users/franciscocarodiaz/Projects/Kyperion/iOs/kyperion/Pods/Alamofire/Source/Upload.swift": !dirty [494581512, 0]
+  "/Users/franciscocarodiaz/Projects/Kyperion/iOs/kyperion/Pods/Alamofire/Source/Validation.swift": !dirty [494581512, 0]

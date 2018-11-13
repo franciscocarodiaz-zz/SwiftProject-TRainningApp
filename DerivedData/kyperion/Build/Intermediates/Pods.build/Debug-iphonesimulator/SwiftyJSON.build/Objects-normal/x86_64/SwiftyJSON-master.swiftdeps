@@ -1,0 +1,5 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.8 clang-703.0.31)"
+options: "92b16fc6d68ac7a3b64f17fc010a5bd0"
+build_time: [526399480, 535703000]
+inputs:
+  "/Users/franciscocarodiaz/Projects/Kyperion/iOs/kyperion/Pods/SwiftyJSON/Source/SwiftyJSON.swift": !dirty [494936040, 0]

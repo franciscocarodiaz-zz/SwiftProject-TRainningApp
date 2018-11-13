@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>TextFieldEffects</string>
+	<string>Alamofire</string>
+	<string>SwiftyJSON</string>
+	<string>QuartzCore</string>
+	<string>CoreServices</string>
+	<string>AVFoundation</string>
+	<string>WebKit</string>
+	<string>MapKit</string>
+	<string>CoreData</string>
+	<string>Security</string>
+	<string>XCTest</string>
+	<string>MobileCoreServices</string>
+	<string>AudioToolbox</string>
+	<string>Foundation</string>
+	<string>UIKit</string>
+	<string>CoreLocation</string>
+	<string>Accelerate</string>
+</array>
+</plist>
